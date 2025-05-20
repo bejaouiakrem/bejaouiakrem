@@ -1,50 +1,35 @@
-# 👋 Hi, I’m Akrem Bejaoui (@bejaouiakrem)
+# Hi there, I'm Akrem Bejaoui 👋
 
-🎓 I'm a passionate software engineering student with a strong interest in real-world applications of AI, data visualization, and system integration.
+I'm an IT engineering student passionate about software development, always eager to learn and take on new challenges. I have hands-on experience across a variety of technologies, from system programming in C/C++ to building complete desktop and web applications using JavaFX and Symfony. My journey in tech is driven by curiosity, creativity, and a love for problem-solving.
 
----
+## 🚀 Projects That Excite Me
 
-## 🚀 About Me
+- **QT- (Administration Desktop App)**
+  - Built an advanced admin desktop app using C++/Qt.
+  - Integrated OpenCV for secure face recognition sign-in.
+  - My focus: Designed and implemented the subscriber management module.
 
-- 👀 I’m interested in **AI integration**, **facial recognition**, **interactive UIs**, and **full-stack development**
-- 🌱 I’m currently learning **machine learning**, **API integration**, and **cloud deployment**
-- 💬 Ask me about: **Qt C++**, **OpenCV**, **JavaFX**, **Power BI**, **Web APIs**, and **system design**
-- 📫 Reach me at: [akrem.bejaoui@esprit.tn] or [LinkedIn]([https://www.linkedin.com/in/bejaoui-akrem-a76861364/])
-- ⚡ Fun fact: I love turning small ideas into smart tools that solve everyday problems
+- **JavaFX (Smart Transport Solutions)**
+  - Collaborated on an all-in-one transport app (taxi reservation, vehicle rentals, etc.).
+  - Developed the bike reservation module.
+  - Integrated online payments with Konnect.
+  - Rebuilt similar payment integration with Symfony for web.
 
----
+## 🛠️ Skills
 
-## 🛠️ Projects & Highlights
+- **Languages:** C, C++, Java, PHP
+- **Frameworks:** Qt, JavaFX, Symfony
+- **Technologies:** OpenCV, Konnect Payment API, Desktop & Web Apps
 
-### 🎮 SDL Game – *C Language*
-A 2D game built using SDL where I developed the **character module**, including:
-- Character animations and movement
-- Special abilities logic
+## 🌱 About Me
 
-### 🧾 Nautic Club Management – *Qt C++ with OpenCV*
-An administrative desktop application where I:
-- Handled the **subscriber module**
-- Integrated **facial recognition** using OpenCV for secure login
+> I am a student with a passion for learning more every day and exploring new technologies. I love building practical solutions and collaborating on exciting projects.
 
-### 🚖 Transportation Reservation System – *JavaFX*
-A multi-service application for:
-- Taxi, vehicle, and carpooling reservations
-- My role: **Bike management module** (admin + client)
-- Integrated **Konnect API** for secure **online payments**
+## 📫 Let’s Connect
 
-### 📊 Data Dashboard Website – *Web App*
-- Created a web interface to present **Power BI dashboards**
-- Designed a front-end interface for an **AI chatbot**
+- [LinkedIn: bejaoui-akrem](https://www.linkedin.com/in/bejaoui-akrem-a76861364/)
+- [email : akrem.bejaoui@esprit.tn)
 
 ---
 
-## 📌 Pinned Projects (suggested for GitHub profile)
-
-- [SDL Game Project](https://github.com/the-last-one)
-- [Nautic Club App (Qt + OpenCV)](https://github.com/QT-)
-- [Transport Reservation System (JavaFX)](https://github.com/JavaFX)
-- [Power BI Dashboard Site + Chatbot](https://github.com/SIGA_GIT)
-
----
-
-![Akrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bejaouiakrem&show_icons=true&theme=tokyonight)
+*Feel free to check out my repositories and connect!*
