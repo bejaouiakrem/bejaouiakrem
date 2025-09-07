@@ -118,10 +118,11 @@ ESPRIT Tunis - Currently pursuing degree in Information Technology with focus on
 
 📫 Let's Connect
 
-    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+   email : 
 
-    https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+         akrem.bejaoui@esprit.tn
 
-    https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+linkedin
 
+        linkedin.com/in/bejaoui-akrem-a76861364
 Fun Fact: I started my programming journey with game development because I wanted to create my own games, and that passion evolved into building complex applications that solve real-world problems! 🎮→🚀
